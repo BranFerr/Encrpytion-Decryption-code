@@ -1,4 +1,4 @@
-###Encrpytion/Decryption:
+### Encrpytion/Decryption:
  Data Encryption Standard, Triple Data Encryption Standard and Advanced Encryption Standard
 
  ### PLEASE NOTE: pycrypto and pycryptodomex are NOT SAFE. I HIGHLY recommend running a virtual file.
